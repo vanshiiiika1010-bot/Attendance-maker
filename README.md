@@ -5,6 +5,7 @@ Student Attendance & Performance Manager
 ##OVERVIEW-
 
 This is a Python-based project for managing:
+
 Student attendance
 Student marks
 Grade calculation
@@ -18,9 +19,20 @@ Basic Input/Output (Console)
 
 ##STEPS TO INSTALL AND RUN-
 
-Open terminal / command prompt
-Go to project folder: cd student-attendance-manager
-Run: python main.py
+Place all files together:
+
+attendance.py
+grades.py
+marks.py
+storage.py
+Open the folder in VS Code
+Install the Python extension (Microsoft)
+Select interpreter:
+  Ctrl + Shift + P → Python: Select Interpreter(python)
+Open terminal
+Navigate to project folder
+Run command: 
+    python main.py
 
 ##FEATURES-
 
