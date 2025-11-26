@@ -54,4 +54,4 @@ Place all files together:
 
 ## DATA STORAGE-
 
-- All data is stored in data.json file automatically.
+- All data is stored in data.json file automatically
