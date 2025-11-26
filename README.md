@@ -1,8 +1,8 @@
-#PROJECT TITLE-
+# PROJECT TITLE-
 
 Student Attendance & Performance Manager
 
-##OVERVIEW-
+## OVERVIEW-
 
 This is a Python-based project for managing:
 
@@ -11,13 +11,13 @@ This is a Python-based project for managing:
 -Grade calculation
 -Basic reporting
 
-##TECHNOLOGIES/TOOLS USED-
+## TECHNOLOGIES/TOOLS USED-
 
 -Python
 -File Storage (JSON or Pickle depending on your implementation)
 -Basic Input/Output (Console)
 
-##STEPS TO INSTALL AND RUN-
+## STEPS TO INSTALL AND RUN-
 
 Place all files together:
 
@@ -35,7 +35,7 @@ Place all files together:
 -Run command: 
      python main.py
 
-##FEATURES-
+## FEATURES-
 
 -Add students
 -Mark attendance
@@ -43,7 +43,7 @@ Place all files together:
 -Compute attendance % and grades
 -Save data automatically
 
-##INSTRUCTIONS TO RUN-
+## INSTRUCTIONS TO RUN-
 
 -Add 2–3 students
 -Mark attendance for multiple dates
@@ -53,6 +53,6 @@ Place all files together:
 -Average marks match your inputs
 -Grade changes as per conditions
 
-##DATA STORAGE-
+## DATA STORAGE-
 
 -All data is stored in data.json file automatically.
